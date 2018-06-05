@@ -100,6 +100,7 @@
                 <td style="width: 20%">
                     <input type="text" name="txtname"  id="txtname"/>
                 </td>
+                
                 <td style="width: 20%">
                 </td>
             </tr>
